@@ -34,9 +34,8 @@ console.log (isPalendrom (565))
  var isE=isEvennumber(i)
 
 
-
   if(isP&&isDs&&isE)}
 { 
 console.log 
 Print master number
- 
+ good
