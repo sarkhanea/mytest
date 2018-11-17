@@ -1,0 +1,38 @@
+function isPalendrom (a) {
+ 
+var result =0
+ var b=a
+ while (b>0)
+ result=result*10+b%10
+ b=(b-b%10)/10
+return result ==a
+ 
+console.log (isPalendrom (565))
+
+ Function have Even number (a)
+ 
+  while (a>0) {
+ if ((a%10)%2==0)
+  return ture 
+ {
+ a(a-a%10)/10
+ return false
+  
+ Function isDivided by seven (a)
+ var sum =0
+ while (a>0)
+ sum=sum+a%10
+ a(a-a%10)/10
+ return sum %7==0
+ console.log 
+  
+ Function isMaster (n)
+ for (vari=0; i>0; i++)}
+
+ Var isP=isPalendrom (i)
+ var isDs=isDividedbyseven(i)
+ var isE=isEvennumber(i)
+  if(isP&&isDs&&isE)}
+{ 
+console.log 
+ 
