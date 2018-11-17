@@ -32,7 +32,11 @@ console.log (isPalendrom (565))
  Var isP=isPalendrom (i)
  var isDs=isDividedbyseven(i)
  var isE=isEvennumber(i)
+
+
+
   if(isP&&isDs&&isE)}
 { 
 console.log 
+Print master number
  
